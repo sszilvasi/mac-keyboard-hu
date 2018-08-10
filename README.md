@@ -1,4 +1,4 @@
-macfiles
-========
+mac-keyboard-hu
+===============
 
-Mac OS X configuration files.
+Hungarian keyboard layout for OS X and macOS
